@@ -174,6 +174,14 @@ button{
     border-radius: 10px;
 }
 
+.generate:disabled{
+
+    background: #63345e;
+	border: 4px solid #63345e;
+    color: #041547;
+    box-shadow:0 0 10px #041547;
+}
+
 button:hover{
     background-color: #afbeeb;
     border: #63345e;
